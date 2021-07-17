@@ -1,7 +1,8 @@
 
 <html>
-
+<head>
 <link rel="icon" href="icon.jpg"
+</head>
 <body>
 
 <canvas id="canvas" width="964" height="964"
